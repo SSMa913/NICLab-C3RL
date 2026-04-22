@@ -6,11 +6,14 @@ This repo is the official Pytorch implementation of
 If you find this repository useful for your work, please consider citing it as follows:
 
 ```BibTeX
-@article{ma2025c3rl,
+@inproceedings{ma2026c3rl,
   title={{C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning}},
-  author={Ma, Shusen and Zhao, Yun-Bo and Kang, Yu},
-  journal={arXiv preprint arXiv:2507.17454},
-  year={2025}
+  author={Ma, Shusen and Zhao, Yunbo and Kang, Yu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={29},
+  pages={24281--24289},
+  year={2026}
 }
 ```
 
